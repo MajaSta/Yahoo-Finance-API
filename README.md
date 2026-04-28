@@ -1,5 +1,5 @@
 
-# Yahoo-Finance-API
+# Yahoo-Finance-API Maja Stasiewicz 52666
 
 ## Overview
 
