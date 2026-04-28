@@ -1,5 +1,4 @@
 
-
 # Yahoo-Finance-API
 
 ## Overview
