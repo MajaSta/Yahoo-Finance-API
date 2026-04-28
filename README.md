@@ -1,6 +1,9 @@
+
+
 # Yahoo-Finance-API
 
 ## Overview
+
 This project analyzes historical closing prices of major technology stocks:
 
 - **AAPL** — Apple  
@@ -9,16 +12,13 @@ This project analyzes historical closing prices of major technology stocks:
 - **META** — Meta  
 - **ADBE** — Adobe  
 
-The objective is to visualize price movements over time and evaluate the quality of the dataset using simple data reliability indicators.
+The objective of this project is twofold. First, it aims to visualize stock price movements over different time periods to identify trends and patterns. Second, it evaluates the quality of the collected dataset using key performance indicators (KPIs), including completeness, latency, accuracy, and consistency, in order to assess its suitability for analysis and AI model training.
 
 ---
 
 ## Analysis Workflow
 
-- Data collection and preprocessing  
-- Time series visualization of closing prices  
-- Comparative trend observation  
-- Data quality evaluation (KPIs)  
+The analysis process consists of several key steps. First, stock price data is collected and preprocessed using the Yahoo Finance API. Next, time series visualizations of closing prices are created to observe market behavior over different periods. This is followed by comparative trend analysis across multiple companies to identify patterns and differences. Finally, the dataset is evaluated using key performance indicators (KPIs), including completeness, latency, accuracy, and consistency. 
 
 ---
 
@@ -42,7 +42,7 @@ The objective is to visualize price movements over time and evaluate the quality
 | META | 100% | 0 days | OK | OK |
 | ADBE | 100% | 0 days | OK | OK |
 
-✔ The dataset is complete, consistent, and reliable for further analysis.
+The dataset is complete, consistent, and reliable for further analysis.
 
 ---
 
@@ -77,11 +77,3 @@ The objective is to visualize price movements over time and evaluate the quality
 
 Basic time series visualization already reveals meaningful insights into stock behavior.  
 The dataset’s quality makes it a strong foundation for more advanced analysis, such as predictive modeling.
-
----
-
-## Future Work
-
-- Apply LSTM / GRU models for forecasting  
-- Compare model performance across stocks  
-- Incorporate additional financial indicators  
