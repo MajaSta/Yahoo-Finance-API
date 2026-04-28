@@ -49,19 +49,19 @@ The objective is to visualize price movements over time and evaluate the quality
 ## Visualizations
 
 ### Apple (AAPL)
-![AAPL](images/aapl.png)
+![AAPL](aapl.png)
 
 ### Microsoft (MSFT)
-![MSFT](images/msft.png)
+![MSFT](msft.png)
 
 ### NVIDIA (NVDA)
-![NVDA](images/nvda.png)
+![NVDA](nvda.png)
 
 ### Meta (META)
-![META](images/meta.png)
+![META](meta.png)
 
 ### Adobe (ADBE)
-![ADBE](images/adbe.png)
+![ADBE](adbe.png)
 
 ---
 
